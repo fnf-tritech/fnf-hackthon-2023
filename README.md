@@ -3,7 +3,7 @@ A hackathon, also known as a codefest, is a social coding event that brings comp
 
 ## Assignments
 -------------------------
-[Hack-1]([https://link-url-here.org](https://classroom.github.com/a/hHR_U_zd))
+[Hack-1](https://classroom.github.com/a/hHR_U_zd)
 
 
 ### Disclaimer
